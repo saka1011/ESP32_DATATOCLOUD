@@ -21,4 +21,3 @@ Wie das Google Script auszusehen hat findet man hier: http://esp32-server.de/goo
 Damit das Programm läuft, muss das eigene WLAN in die entsprechenden Zeilen(mit kommentar versehen) eingetragen werden.
 
 
-
